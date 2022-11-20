@@ -116,7 +116,7 @@ document.querySelector(".c-credits > div:last-child").addEventListener("click", 
 
 
 function copytoclip() {
-    navigator.clipboard.writeText("2abhijha@gmail.com");
+    navigator.clipboard.writeText("pratikshaekbote@gmail.com");
 }
 
 
