@@ -143,4 +143,4 @@ document.addEventListener('keydown', (e) => {
     }
 })
 
-console.log("Designed and Developed by Abhishek Jha. This website is copyrighted, any act of stealing or altering would result in legal action.")
+console.log("Designed and Developed by Pratiksha Ekbote. This website is copyrighted, any act of stealing or altering would result in legal action.")
