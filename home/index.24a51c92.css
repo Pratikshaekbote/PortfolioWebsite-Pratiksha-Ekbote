@@ -132,7 +132,7 @@ ul {
 .c-contact .c-progress span {
     height: 100%;
     width: 100%;
-    background: #14cf93;
+    background: #092147;
     transform: scaleX(0);
     transform-origin: left;
     display: block;
@@ -195,7 +195,7 @@ ul {
     width: 100%;
     height: 100%;
     border: none;
-    background: #14cf93;
+    background: #092147;
     color: #fff;
     z-index: 4;
     visibility: hidden;
@@ -208,7 +208,7 @@ ul {
 .c-contact .c-buttons .c-back,
 .c-contact .c-buttons .c-close {
     padding: 18px;
-    background-color: #14cf93;
+    background-color: #092147;
     line-height: 0;
     border-radius: 100px
 }
@@ -301,7 +301,7 @@ ul {
     top: 0;
     left: 0;
     width: 100%;
-    background-color: #14cf93;
+    background-color: #092147;
     height: 100%;
     opacity: 0;
     border-radius: 200px;
@@ -366,7 +366,7 @@ ul {
 }
 
 .c-query .c-reply input[type=radio]:checked+label {
-    box-shadow: inset 0 500px #14cf93;
+    box-shadow: inset 0 500px #092147;
     color: #fff
 }
 
@@ -401,7 +401,7 @@ ul {
 .s-text:focus-within {
     outline: none;
     -moz-outline: none;
-    border-bottom: 3px solid #14cf93 !important
+    border-bottom: 3px solid #092147 !important
 }
 
 .s-text::-moz-focus-inner {
@@ -523,7 +523,7 @@ ul {
 }
 
 .c-cate div button:hover {
-    background-color: #14cf93;
+    background-color: #092147;
     color: #fff
 }
 
@@ -668,7 +668,7 @@ hr {
 h1 .o-accent,
 h2 .o-accent,
 h3 .o-accent {
-    color: #14cf93
+    color: #092147
 }
 
 @keyframes colorSpin {
@@ -771,7 +771,7 @@ nav a {
 
 .c-title__row #Visual path,
 .c-title__row #Visual polyline {
-    stroke: #14cf93
+    stroke: #092147
 }
 
 ._title-fit {
@@ -828,7 +828,7 @@ nav a {
 .c-visual-line {
     width: 15vw;
     height: 6px;
-    background-color: #14cf93;
+    background-color: #092147;
     margin: 2px 3vw 0 0;
     transform-origin: left
 }
@@ -864,7 +864,7 @@ nav a {
 
 .c-about p .u-non {
     text-transform: capitalize;
-    color: #14cf93
+    color: #092147
 }
 
 .c-about-cards {
@@ -1130,7 +1130,7 @@ nav a {
     padding-left: 5px;
     opacity: 0;
     transition: .6s;
-    color: #14cf93;
+    color: #092147;
     transition-timing-function: cubic-bezier(0, .89, .41, 1);
     transform: translateY(-4px)
 }
@@ -1441,7 +1441,7 @@ footer #c-circle {
     height: 100%;
     transform: translateY(-101%);
     content: "";
-    background-color: #14cf93;
+    background-color: #092147;
     transition: .2s;
     z-index: -1
 }
@@ -1537,7 +1537,7 @@ footer #c-circle {
 }
 
 .c-credits img {
-    background-color: #14cf93;
+    background-color: #092147;
     padding: 20px;
     border-radius: 5vh
 }
@@ -1587,7 +1587,7 @@ footer #c-circle {
 }
 
 .c-loader .c-loader__bg:nth-child(3) {
-    background-color: #14cf93;
+    background-color: #092147;
     z-index: 1;
     transition-delay: .8s
 }
